@@ -1,4 +1,5 @@
 snippets
 ========
 
-Short pieces of source code (snippets) in different programming languages.
+Short pieces of source code (snippets) divided by programming 
+languages, frameworks, etc.
